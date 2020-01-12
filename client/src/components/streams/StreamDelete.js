@@ -1,9 +1,13 @@
 import React from 'react';
-import { fetchStream } from '../../actions';
-import { connect } from 'react-redux';
+import  Modal from '../Modal';
 
 const StreamDelete = () => {
-  return <div>StreamDelete</div>;
+  return (
+    <div>
+      Stream Delete
+      <Modal />
+    </div>
+    );
 };
 
 export default StreamDelete;
