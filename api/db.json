@@ -32,24 +32,6 @@
       "id": 6
     },
     {
-      "description": "Also Made by Me",
-      "title": "Another stream with creator ID",
-      "userId": "110983955120485311249",
-      "id": 7
-    },
-    {
-      "title": "This should have the creatorID",
-      "description": "hopefully ",
-      "userId": "110983955120485311249",
-      "id": 8
-    },
-    {
-      "title": "This one should have a userID key too",
-      "description": "let's hope",
-      "userId": "110983955120485311249",
-      "id": 9
-    },
-    {
       "title": "Here is a new stream after adding the create stream button",
       "description": "there is some weirdness",
       "userId": "110983955120485311249",
